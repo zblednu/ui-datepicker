@@ -1,1 +1,1 @@
-zblednu.github.io/ui-datepicker/
+https://zblednu.github.io/ui-datepicker/
